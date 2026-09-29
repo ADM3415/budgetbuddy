@@ -1,0 +1,12 @@
+# Compiled files
+target/
+*.class
+
+# Editor settings
+.vscode/
+.idea/
+*.iml
+
+# Personal financial data
+transactions.csv
+budgets.csv
